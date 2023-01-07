@@ -1,0 +1,11 @@
+.box1 {
+  background-color: tomato;
+  border: var(--border);
+  margin-bottom: 20px;
+  text-align: center;
+}
+.box2 {
+  background-color: teal;
+  border: var(--border);
+  text-align: center;
+}

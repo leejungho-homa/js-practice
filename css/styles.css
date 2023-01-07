@@ -1,0 +1,8 @@
+@import "variables.css";
+/* screens */
+@import "screens/main.css";
+
+body {
+  background-color: beige;
+  padding: 15px 25px;
+}
