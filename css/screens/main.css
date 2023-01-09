@@ -69,3 +69,19 @@ body {
 .hidden {
   display: none;
 }
+.quote {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.quote span:first-child {
+  text-align: center;
+  font-size: 20px;
+}
+.quote span:last-child {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 15px;
+}
